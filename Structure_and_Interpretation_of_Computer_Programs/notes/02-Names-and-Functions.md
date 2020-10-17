@@ -4,13 +4,12 @@
 
 - Evaluating Call Expressions
 
-  <img src="C:\Users\ng_ju\Desktop\新建文件夹\sicp\note\02-1.png" alt="image-20201015214527943" style="zoom:50%;" />
-
+  ![image](https://github.com/pepperRabbit/nju_course/blob/master/Structure_and_Interpretation_of_Computer_Programs/notes/imgs/02-1.png)
 
 
 - Expression Tree
 
-  <img src="C:\Users\ng_ju\Desktop\新建文件夹\sicp\note\02-2.png" alt="image-20201015214743984" style="zoom:50%;" />
+  ![image](https://github.com/pepperRabbit/nju_course/blob/master/Structure_and_Interpretation_of_Computer_Programs/notes/imgs/02-2.png)
 
 
 
@@ -34,7 +33,7 @@
 
   A name can only be bound to a single value
 
-  ![image-20201015215214078](C:\Users\ng_ju\Desktop\新建文件夹\sicp\note\02-3.png)
+  ![image](https://github.com/pepperRabbit/nju_course/blob/master/Structure_and_Interpretation_of_Computer_Programs/notes/imgs/02-3.png)
 
 
 
@@ -44,7 +43,7 @@
 
   They take in some input (known as their **arguments**) and transform it into an output (the **return value**)
 
-  ![image-20201015215724251](C:\Users\ng_ju\Desktop\新建文件夹\sicp\note\02-4.png)
+  ![image](https://github.com/pepperRabbit/nju_course/blob/master/Structure_and_Interpretation_of_Computer_Programs/notes/imgs/02-4.png)
 
   
 
@@ -62,19 +61,19 @@
 
   0.
 
-  <img src="C:\Users\ng_ju\Desktop\新建文件夹\sicp\note\02-5.png" alt="image-20201015220213998" style="zoom:50%;" />
+  ![image](https://github.com/pepperRabbit/nju_course/blob/master/Structure_and_Interpretation_of_Computer_Programs/notes/imgs/02-5.png)
 
   1.Create a new **environment frame**
 
-  <img src="C:\Users\ng_ju\Desktop\新建文件夹\sicp\note\02-6.png" alt="image-20201015220243736" style="zoom:50%;" />
+  ![image](https://github.com/pepperRabbit/nju_course/blob/master/Structure_and_Interpretation_of_Computer_Programs/notes/imgs/02-6.png)
 
   2.Bind the function's parameters to its arguments in that frame
 
-  <img src="C:\Users\ng_ju\Desktop\新建文件夹\sicp\note\02-7.png" alt="image-20201015220304274" style="zoom:50%;" />
+  ![image](https://github.com/pepperRabbit/nju_course/blob/master/Structure_and_Interpretation_of_Computer_Programs/notes/imgs/02-7.png)
 
   3.Execute the body of the function in the new environment
 
-  <img src="C:\Users\ng_ju\Desktop\新建文件夹\sicp\note\02-8.png" alt="image-20201015220320665" style="zoom:50%;" />
+  ![image](https://github.com/pepperRabbit/nju_course/blob/master/Structure_and_Interpretation_of_Computer_Programs/notes/imgs/02-8.png)
 
   
 
