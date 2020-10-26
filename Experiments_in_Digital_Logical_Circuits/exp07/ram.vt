@@ -77,38 +77,6 @@ clk=0;we=0;indata=8'b00000000;inaddr=4'b0000;#8;
 									inaddr1=4'b0001;#8;
 		we=0;indata=8'b00000011;inaddr=4'b0000;#8;
 									inaddr1=4'b0001;#8;
-		
-									/*inoutaddr=4'b0010;#8;
-									inoutaddr=4'b0011;#8;
-									inoutaddr=4'b0100;#8;
-									inoutaddr=4'b0101;#8;
-									inoutaddr=4'b0110;#8;
-									inoutaddr=4'b0111;#8;
-									inoutaddr=4'b1000;#8;
-									inoutaddr=4'b1001;#8;
-									inoutaddr=4'b1010;#8;
-									inoutaddr=4'b1011;#8;
-									inoutaddr=4'b1100;#8;
-									inoutaddr=4'b1101;#8;
-									inoutaddr=4'b1110;#8;
-									inoutaddr=4'b1111;#8;
-									
-		we=0;din=8'b00000000;inoutaddr=4'b0000;#8;
-									inoutaddr=4'b0001;#8;
-									inoutaddr=4'b0010;#8;
-									inoutaddr=4'b0011;#8;
-									inoutaddr=4'b0100;#8;
-									inoutaddr=4'b0101;#8;
-									inoutaddr=4'b0110;#8;
-									inoutaddr=4'b0111;#8;
-									inoutaddr=4'b1000;#8;
-									inoutaddr=4'b1001;#8;
-									inoutaddr=4'b1010;#8;
-									inoutaddr=4'b1011;#8;
-									inoutaddr=4'b1100;#8;
-									inoutaddr=4'b1101;#8;
-									inoutaddr=4'b1110;#8;
-									inoutaddr=4'b1111;#8;*/
 									
                                                       
 // --> end                                             
